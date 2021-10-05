@@ -67,4 +67,4 @@ alias("opsec",{
 
 ## Credit
 
-Thanks to bluescreenofjeff and _tifkin for the original opsec aggressor script. It was more better since it rewqrote the GUI options but it hasn't been updated in 4 years, lots has changed since then. 
+Thanks to bluescreenofjeff and _tifkin for the original opsec aggressor script. It was more better since it rewrote the GUI options but it hasn't been updated in 4 years, lots has changed since then. 
