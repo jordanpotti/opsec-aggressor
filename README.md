@@ -1,5 +1,5 @@
 # opsec-aggressor
-Aggressor script that gets the latest commands from CobaltStrikes web site and creates an aggressor script based tool options.
+Aggressor script that gets the latest commands from CobaltStrikes opsec page and creates an aggressor script based on tool options.
 
 Grabs latest commands from https://www.cobaltstrike.com/help-opsec and sets block/allow based on tool input. 
 
