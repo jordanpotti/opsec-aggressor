@@ -34,7 +34,7 @@ optional arguments:
 ## Example
 
 ```
-$ python3 get_opsec.pt -c API-only,House-keeping,bof,cmd.exe | tee opsec.cna
+$ python3 get_opsec.py -c API-only,House-keeping,bof,cmd.exe | tee opsec.cna
 #TTP: API-only
 %commands["cd"]="true";
 %commands["cp"]="true";
