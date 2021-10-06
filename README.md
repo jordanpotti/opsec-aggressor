@@ -16,6 +16,10 @@ Grabs latest commands from https://www.cobaltstrike.com/help-opsec and sets bloc
 - Process Injection (Spawn&Inject)
 - Service Creation
 
+## Credit
+
+Thanks to bluescreenofjeff and _tifkin for the original [opsec aggressor scripts](https://github.com/bluscreenofjeff/AggressorScripts/tree/master/OPSEC%20Profiles). It was more better since it rewrote some of the dropdown options but it hasn't been updated in 4 years, much has changed since then. 
+
 ## Usage 
 
 ```
@@ -65,6 +69,4 @@ alias("opsec",{
 });
 ```
 
-## Credit
 
-Thanks to bluescreenofjeff and _tifkin for the original opsec aggressor script. It was more better since it rewrote the GUI options but it hasn't been updated in 4 years, lots has changed since then. 
